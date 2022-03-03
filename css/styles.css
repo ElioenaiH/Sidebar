@@ -1,0 +1,14 @@
+.container{
+    background-color: #F3C892;
+    height: 700px;
+    width: 300px;
+}
+
+.container{
+    font-size:300%;
+    color:#F2F5C8;
+}
+.font-style{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#CC9544;
+}
